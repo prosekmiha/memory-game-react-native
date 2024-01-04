@@ -9,19 +9,39 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "@anatoliygatt/dark-mode-toggle": "^1.0.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+>>>>>>> 599ef49 (first commit)
     "@expo/webpack-config": "^19.0.0",
     "@react-native-async-storage/async-storage": "1.18.2",
     "expo": "~49.0.15",
+    "expo-router": "^2.0.14",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
+<<<<<<< HEAD
     "react-dom": "18.2.0",
     "react-native": "0.72.6",
     "react-native-responsive": "^1.0.2",
     "react-native-restart": "^0.0.27",
     "react-native-web": "~0.19.6"
+=======
+    "react-dom": "^18.2.0",
+    "react-native": "0.72.6",
+    "react-native-navigation-bar-color": "^2.0.2",
+    "react-native-system-navigation-bar": "^2.6.1",
+    "react-native-web": "^0.19.9"
+>>>>>>> 599ef49 (first commit)
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
+  },
+  "resolutions": {
+    "@expo/config-plugins": "~6.0.0",
+    "@expo/prebuild-config": "~6.0.0",
+    "expo-modules-autolinking": "~1.1.0"
   },
   "private": true
 }

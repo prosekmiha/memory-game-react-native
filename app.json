@@ -1,15 +1,20 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "Simple Memory Game",
     "slug": "Memory-game-app",
+=======
+    "name": "Notes",
+    "slug": "notes",
+>>>>>>> 599ef49 (first commit)
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -20,17 +25,35 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
+<<<<<<< HEAD
         "backgroundColor": "#ffffff"
       },
       "package": "com.memorygame"
+=======
+        "backgroundColor": "#000000"
+      },
+      "package": "com.notes"
+      
+      
+      
+>>>>>>> 599ef49 (first commit)
     },
     "web": {
       "favicon": "./assets/icon.png"
     },
     "extra": {
       "eas": {
+<<<<<<< HEAD
         "projectId": "a0ad5a71-34e2-4a01-8b5c-2abbb841dd7c"
       }
     }
+=======
+        "projectId": "d18a8493-dd2d-40ca-9457-9ac05a890309"
+      }
+    },
+    "owner": "prosekmiha"
+    
+>>>>>>> 599ef49 (first commit)
   }
+  
 }
